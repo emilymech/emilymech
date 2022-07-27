@@ -28,9 +28,10 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
+feature:
   - description: While I don't use JavaScript in my day to day work, I implemented an online self-paced reading experiment using jsPsych at the beginning of the COVID-19 pandemic. 
-    icon: chart-line
-    icon_pack: fas
+    icon: square-js
+    icon_pack: fab
     name: JavaScript
   - description: I use the EEGlab and ERPlab packages in MATLAB to clean my EEG data. I have also used MATLAB to implement a psycholinguistics experiment.
     icon: computer-classic
