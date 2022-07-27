@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher
     company: University of Illinois at Urbana-Champaign
     company_url: ''
-    company_logo: University_of_Illinois_at_Urbana–Champaign_logo
+    company_logo: university-of-illinois-block-i-navy-background-
     location: Illinois
     date_start: '2019-08-15'
     date_end: ''

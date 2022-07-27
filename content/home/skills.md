@@ -33,8 +33,8 @@ feature:
     icon_pack: fas
     name: Science Communication
     description: I have conceptualized and implemented multiple research projects which have led to presentations at scientific conferences as well as published chapters and articles in scientific handbooks and journals.
-  - icon: brain-circuit
-    icon_pack: fas
+  - icon: icons8-matlab-96
+    icon_pack: custom
     name: MATLAB
     description: I use the EEGlab and ERPlab packages in MATLAB to clean my EEG data. I have also used MATLAB to implement a psycholinguistics experiment.
   - icon: js
