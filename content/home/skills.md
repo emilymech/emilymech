@@ -29,6 +29,8 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
+    
+feature:
   - description: While I don't use JavaScript in my day to day work, I implemented an online self-paced reading experiment using jsPsych at the beginning of the COVID-19 pandemic. 
     icon: square-js
     icon_pack: fab
