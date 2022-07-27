@@ -32,18 +32,30 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Designed, collaborated on, & programmed experiments using qualitative & quantitative methods including EEG, online studies, behavioral responses & surveys
-        * Created data wrangling, visualization, & analysis pipelines using R, Python, & MATLAB to implement univariate & multivariate statistics
-        * Presented research to colleagues & published research in scientific journals
+        * Designing, collaborating on, & programming experiments using qualitative & quantitative methods including EEG, online studies, behavioral responses & surveys
+        * Creating data wrangling, visualization, & analysis pipelines using R, Python, & MATLAB to implement univariate & multivariate statistics
+        * Presenting research to colleagues & publishing research in scientific journals
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Student Researcher
+    company: University of California, Riverside
     company_url: ''
-    company_logo: org-x
+    company_logo: UC_Riverside_Highlanders_logo
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2016-08-01'
+    date_end: '2019-06-01'
+    description: |2-
+        * Conceptualized & implemented multiple research projects, presented findings at scientific conferences (5 talks, 25 posters), published in handbooks and journals
+        * Managed a team of 12+ research assistants, led trainings on experimental design, methods, data analysis, troubleshooting, programming, & scientific communication
+        
+  - title: Visiting Scholar
+    company: University of Granada, Spain
+    company_url: ''
+    company_logo: Logo_Universidad_de_Granada
+    location: Spain
+    date_start: '2016-08-01'
+    date_end: '2019-06-01'
+    description: |2-
+        * Programmed an experiment, collected data, analyzed & presented results within a two month visiting scholar appointment
 
 design:
   columns: '2'
