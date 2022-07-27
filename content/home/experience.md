@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student Researcher
     company: University of Illinois at Urbana-Champaign
     company_url: ''
-    company_logo: University_of_Illinois_at_Urbana–Champaign_logo
+    company_logo: assets/media/brands/University_of_Illinois_at_Urbana–Champaign_logo'
     location: Illinois
     date_start: '2019-08-15'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Graduate Student Researcher
     company: University of California, Riverside
     company_url: ''
-    company_logo: UC_Riverside_Highlanders_logo
+    company_logo: 'UC_Riverside_Highlanders_logo'
     location: California
     date_start: '2016-08-01'
     date_end: '2019-06-01'
