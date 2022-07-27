@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Technical Skills
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -29,16 +29,19 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-    
-feature:
-  - description: While I don't use JavaScript in my day to day work, I implemented an online self-paced reading experiment using jsPsych at the beginning of the COVID-19 pandemic. 
-    icon: fa-square-js
-    icon_pack: fab
-    name: JavaScript
   - description: I use the EEGlab and ERPlab packages in MATLAB to clean my EEG data. I have also used MATLAB to implement a psycholinguistics experiment.
-    icon: fa-computer-classic
+    icon: computer-classic
     icon_pack: fas
     name: MATLAB
+  - description: I implemented an online self-paced reading experiment using jsPsych at the beginning of the COVID-19 pandemic. 
+    icon: square-js
+    icon_pack: fab
+    name: JavaScript
+  - description: I have conceptualized & implemented multiple research projects which has led to presentations at scientific conferences as well as published chapters and articles in scientific handbooks and journals.
+    icon: head-side-brain
+    icon_pack: fas
+    name: Science Communication
+    
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
