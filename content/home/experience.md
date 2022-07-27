@@ -50,7 +50,7 @@ experience:
   - title: Visiting Scholar
     company: University of Granada, Spain
     company_url: ''
-    company_logo: Logo_Universidad_de_Granada
+    company_logo: Logo_UGR
     location: Spain
     date_start: '2016-08-01'
     date_end: '2019-06-01'
