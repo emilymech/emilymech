@@ -17,9 +17,8 @@ education:
 email: "emily.mech@gmail.com"
 highlight_name: true
 interests:
-- Language
+- Language Comprehension
 - Semantics
-- Comprehension
 - Discourse
 - Data Analytics and Visualization
 organizations:
