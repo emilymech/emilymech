@@ -56,6 +56,17 @@ experience:
     date_end: '2019-06-01'
     description: |2-
         * Programmed an experiment, collected data, analyzed & presented results within a two month visiting scholar appointment
+        
+  - title: Undergraduate Research Assistant
+    company: University of Wisconsin-Madison
+    company_url: ''
+    company_logo: Wisconsin_Badgers_logo
+    location: Wisconsin
+    date_start: '2014-02-01'
+    date_end: '2016-05-15'
+    description: |2-
+        * Programmed an experiment, analyzed data, presented results at the undergraduate research symposium
+        * Coded speech data to mark word onset time in Praat
 
 design:
   columns: '2'
