@@ -29,8 +29,8 @@ feature:
     icon_pack: fas
     name: Statistics
     description: I primarily analyze my data with hierarchical linear models. I have implemented these models with both frequentist and bayesian estimation methods. I am also able to implement a variety of other univariate and multivariate models including but not limited to linear and logistic regression, ANOVA, EFA, CFA, and PCA.
-  - icon: computer-classic
-    icon_pack: fas
+  - icon: matlab
+    icon_pack: custom
     name: MATLAB
     description: I use the EEGlab and ERPlab packages in MATLAB to clean my EEG data. I have also used MATLAB to implement a psycholinguistics experiment.
   - icon: square-js
