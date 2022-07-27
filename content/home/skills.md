@@ -29,6 +29,10 @@ feature:
     icon_pack: fas
     name: Statistics
     description: I primarily analyze my data with hierarchical linear models. I have implemented these models with both frequentist and bayesian estimation methods. I am also able to implement a variety of other univariate and multivariate models including but not limited to linear and logistic regression, ANOVA, EFA, CFA, and PCA.
+  - icon: presentation-screen
+    icon_pack: fa-solid
+    name: Science Communication
+    description: I have conceptualized & implemented multiple research projects which has led to presentations at scientific conferences as well as published chapters and articles in scientific handbooks and journals.
   - icon: head-side-brain
     icon_pack: fa-solid
     name: MATLAB
@@ -37,10 +41,6 @@ feature:
     icon_pack: fa-brands
     name: JavaScript
     description: I implemented an online self-paced reading experiment using jsPsych at the beginning of the COVID-19 pandemic. 
-  - icon: presentation-screen
-    icon_pack: fa-solid
-    name: Science Communication
-    description: I have conceptualized & implemented multiple research projects which has led to presentations at scientific conferences as well as published chapters and articles in scientific handbooks and journals.
     
     
 # Uncomment to use emoji icons.
