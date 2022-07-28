@@ -5,8 +5,8 @@ image:
   caption: EEG Setup
   focal_point: Smart
 links:
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap
+  icon_pack: fas
   name: Manuscript
   url: https://www.sciencedirect.com/science/article/pii/S0093934X22000530?casa_token=tw2f-4FucrAAAAAA:IORjvjwvcFdiaBTRviq6jrV9zfmrkX4dFk6EK4bcYqnHbt8waiOETH8kEphw0eFeOKRqTKc1rQ
 slides: 
