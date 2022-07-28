@@ -16,7 +16,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: enmech2@illinois.edu
+  email: emily.mech@gmail.com
 
 design:
   columns: '2'
