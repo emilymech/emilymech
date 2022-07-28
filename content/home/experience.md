@@ -67,6 +67,7 @@ experience:
     description: |2-
         * Programmed an experiment, analyzed data, presented results at the undergraduate research symposium
         * Coded speech data to mark word onset time in Praat
+        * TEST
 
 design:
   columns: '2'
