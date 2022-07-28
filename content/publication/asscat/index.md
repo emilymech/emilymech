@@ -24,7 +24,7 @@ tags: []
 title: 'The last course of coarse coding: Hemispheric similarities in associative and categorical semantic processing'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "hemi_similarities.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
