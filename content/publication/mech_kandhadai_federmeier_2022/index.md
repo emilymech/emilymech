@@ -1,5 +1,6 @@
 ---
-title: 'Mech, Kandhadai, and Federmeier, 2022'
+title: 'The last course of coarse coding\: Hemispheric similarities in associative and
+categorical semantic processing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
