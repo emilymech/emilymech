@@ -14,7 +14,7 @@ summary: Our recent publication showing that the hemispheres CAN represent seman
 tags:
 - EEG
 - hemisphere
-title: Hemispheric Similarities in Associative and Categorical Processing
+title: The last course of coarse coding: Hemispheric similarities in associative and categorical semantic processing
 url_code: ""
 url_pdf: ""
 url_slides: ""

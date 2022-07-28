@@ -2,10 +2,10 @@
 bio: My research interests include language comprehension, semantics, and event-related potentials.
 education:
   courses:
-  - course: PhD in Psychology with an emphasis in Cognition
+  - course: PhD in Psychology (Cognitive)
     institution: University of Illinois at Urbana-Champaign
     year: Expected Graduation - 2022
-  - course: MA in Psychology with an emphasis in Cognition
+  - course: MA in Psychology (Cognitive)
     institution: University of California, Riverside
     year: 2018
   - course: BA in Psychology
@@ -20,7 +20,10 @@ interests:
 - Language Comprehension
 - Semantics
 - Discourse
-- Data Analytics and Visualization
+- Data Visualization
+- Statistics
+- Data Simulation
+
 organizations:
 - name: University of Illinois at Urbana-Champaign
   url: https://illinois.edu/
