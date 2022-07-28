@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- associations_categories
+- example
 publication: In *Brain and Language*
 publication_short:
 publication_types:
