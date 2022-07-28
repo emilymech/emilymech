@@ -3,9 +3,9 @@ abstract: To test theories that posit differences in how semantic information is
 author_notes:
 authors:
 - admin
-- Padmapriya Kandhadai
-- Kara D. Federmeier
-date: "2013-07-01T00:00:00Z"
+- 'Padmapriya Kandhadai'
+- 'Kara D. Federmeier'
+date: ""
 doi: ""
 featured: true
 image:
@@ -13,10 +13,9 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- 'association_category'
 publication: In *Brain and Language*
 publication_short:
-publication_types:
+publication_types: ['2']
 publishDate: 
 slides: 
 summary: Our recent publication showing that the cerebral hemispheres can represent semantic information similarly given a task that requires deep semantic processing.
