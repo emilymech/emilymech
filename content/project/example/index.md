@@ -2,18 +2,19 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: EEG Setup
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
+- icon: google-scholar
+  icon_pack: ai
   name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+  url: https://www.sciencedirect.com/science/article/pii/S0093934X22000530?casa_token=tw2f-4FucrAAAAAA:IORjvjwvcFdiaBTRviq6jrV9zfmrkX4dFk6EK4bcYqnHbt8waiOETH8kEphw0eFeOKRqTKc1rQ
+slides: 
+summary: Our recent publication showing that the hemispheres CAN represent semantic information similarly given a task that requires deep semantic processing.
 tags:
-- Deep Learning
-title: Example Project
+- EEG
+- hemisphere
+title: Hemispheric Similarities in Associative and Categorical Processing
 url_code: ""
 url_pdf: ""
 url_slides: ""
