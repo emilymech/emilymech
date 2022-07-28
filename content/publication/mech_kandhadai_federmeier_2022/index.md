@@ -64,7 +64,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  -'mech_kandhadai_federmeier_2022'
+  - mech_kandhadai_federmeier_2022
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
