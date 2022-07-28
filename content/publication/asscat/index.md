@@ -7,7 +7,7 @@ authors:
 - Kara D. Federmeier
 date: "2013-07-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: 
   focal_point: ""
