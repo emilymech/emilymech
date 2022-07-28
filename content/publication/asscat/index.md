@@ -7,7 +7,7 @@ authors:
 - Kara D. Federmeier
 date: "2013-07-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 
   focal_point: ""
@@ -20,11 +20,11 @@ publication_types:
 publishDate: 
 slides: 
 summary: Our recent publication showing that the cerebral hemispheres can represent semantic information similarly given a task that requires deep semantic processing.
-tags: []
+tags: 
 title: 'The last course of coarse coding: Hemispheric similarities in associative and categorical semantic processing'
 url_code: ""
 url_dataset: ""
-url_pdf: "hemi_similarities.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
