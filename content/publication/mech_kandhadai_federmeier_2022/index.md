@@ -1,5 +1,5 @@
 ---
-title: 'The last course of coarse coding\: Hemispheric similarities in associative and
+title: 'The last course of coarse coding: Hemispheric similarities in associative and
 categorical semantic processing'
 
 # Authors
