@@ -13,7 +13,7 @@ slides:
 summary: Our recent publication showing that the cerebral hemispheres can represent semantic information similarly given a task that requires deep semantic processing.
 tags:
 - EEG
-title: The last course of coarse coding- Hemispheric similarities in associative and categorical semantic processing
+title: The last course of coarse coding: Hemispheric similarities in associative and categorical semantic processing
 url_code: ""
 url_pdf: ""
 url_slides: ""
