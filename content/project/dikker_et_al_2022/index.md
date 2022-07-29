@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Exploring age-related changes in inter-brain synchrony during verbal communication
 summary: An example of using the in-built project page.
 tags:
   - Review
