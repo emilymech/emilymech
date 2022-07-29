@@ -31,8 +31,6 @@ content:
       tag: EEG
     - name: Simulation
       tag: Sim
-    - name: Review
-      tag: Review
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
