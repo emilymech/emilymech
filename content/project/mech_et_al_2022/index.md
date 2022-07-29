@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: graduation-cap
+    icon_pack: fas
+    name: Manuscript
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0093934X22000530
 url_code: ''
 url_pdf: ''
 url_slides: ''
