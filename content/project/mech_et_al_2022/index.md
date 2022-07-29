@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: The last course of coarse coding: Hemispheric similarities in associative and categorical processing
 summary: An example of using the in-built project page.
 tags:
   - EEG
