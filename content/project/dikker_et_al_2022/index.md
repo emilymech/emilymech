@@ -2,14 +2,14 @@
 date: "2022-04-01T00:00:00Z"
 external_link: ""
 image: 
-  caption:
+  caption: ''
   focal_point: Smart
 links:
 - icon: graduation-cap
   icon_pack: fas
   name: Manuscript
   url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Exploring+age-related+changes+in+inter-brain+synchrony+during+verbal+communication&btnG=
-slides: 
+slides: ''
 summary: Systematic age-related neural dissimilarities in processing
 dynamics and strategies raise fundamental questions about how the human brain supports
 cross-generational communication, especially in light of accumulating evidence linking
