@@ -13,7 +13,7 @@ slides:
 summary: These results suggest the information provided by adjectives is buffered
 until a head noun is encountered, at which point the access of the noun’s semantics is shaped in parallel by both the adjective and the sentence-level representation.
 tags:
-- EEG
+- Review
 title: Exploring age-related changes in inter-brain synchrony during verbal communication
 url_code: ""
 url_pdf: ""
