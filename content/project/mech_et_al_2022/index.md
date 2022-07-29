@@ -1,9 +1,9 @@
 ---
 title: 'The last course of coarse coding: Hemispheric similarities in associative and categorical processing'
-summary: An example of using the in-built project page.
+summary: We argue that hemispheric differences, when they arise, are more likely due to differences in task demands than in how the hemispheres fundamentally represent semantic information.
 tags:
   - EEG
-date: '2016-04-27T00:00:00Z'
+date: '2022-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
