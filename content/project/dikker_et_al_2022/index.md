@@ -16,7 +16,8 @@ cross-generational communication, especially in light of accumulating evidence l
 interpersonal similarities in brain responses to communicative success. Yet despite its
 prevalence and tangible health-related importance, naturalistic intergenerational
 communication involving older adults is understudied. In this paper, we lay out why filling this research gap is critical in advancing our understanding of naturalistic communication, with implications for both science and practice.
-tags: ''
+tags:
+  - Review
 title: Exploring age-related changes in inter-brain synchrony during verbal communication
 url_code: ""
 url_pdf: ""
