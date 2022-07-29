@@ -13,7 +13,7 @@ slides: ''
 summary: These results suggest the information provided by adjectives is buffered
 until a head noun is encountered, at which point the access of the noun’s semantics is shaped in parallel by both the adjective and the sentence-level representation.
 tags:
-- EEG
+  - EEG
 title:  The power of “good”: Can adjectives rapidly decrease as well as increase the availability of the upcoming noun? 
 url_code: ""
 url_pdf: ""
