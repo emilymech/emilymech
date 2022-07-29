@@ -50,4 +50,5 @@ title: Emily Mech
 
 Emily Mech uses event-related potentials (ERPs), computational modeling, and behavioral methodology to examine how regularities in language and the world interact to affect the ways in which our linguistic and semantic knowledge is learned, structured, accessed, and communicated.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
