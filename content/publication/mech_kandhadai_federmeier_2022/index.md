@@ -33,7 +33,7 @@ abstract: To test theories that posit differences in how semantic information is
 # Summary. An optional shortened abstract.
 summary: Our recent publication showing that the cerebral hemispheres can represent semantic information similarly given a task that requires deep semantic processing.
 
-tags: []
+tags: ['EEG']
 
 # Display this page in the Featured widget?
 featured: false

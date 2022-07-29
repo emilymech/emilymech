@@ -1,6 +1,6 @@
 ---
-title: "The Power of “Good”: Can Adjectives Rapidly Decrease as Well as
-Increase the Availability of the Upcoming Noun?"
+title: The Power of “Good”: Can Adjectives Rapidly Decrease as Well as
+Increase the Availability of the Upcoming Noun?
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,7 +33,7 @@ abstract: Can a single adjective immediately influence message-building during s
 # Summary. An optional shortened abstract.
 summary: Overall, these results suggest the information provided by adjectives is buffered until a head noun is encountered, at which point the access of the noun’s semantics is shaped in parallel by both the adjective and the sentence-level representation.
 
-tags: []
+tags: ['EEG']
 
 # Display this page in the Featured widget?
 featured: false

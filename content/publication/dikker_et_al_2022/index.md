@@ -1,5 +1,5 @@
 ---
-title: 'Exploring age-related changes in inter-brain synchrony during verbal communication'
+title: Exploring age-related changes in inter-brain synchrony during verbal communication
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -35,7 +35,7 @@ abstract: Successful communication is key to health in older age. This is true i
 # Summary. An optional shortened abstract.
 summary: Systematic age-related neural dissimilarities in processing dynamics and strategies raise fundamental questions about how the human brain supports cross-generational communication, especially in light of accumulating evidence linking interpersonal similarities in brain responses to communicative success. Yet despite its prevalence and tangible health-related importance, naturalistic intergenerational communication involving older adults is understudied. In this paper, we lay out why filling this research gap is critical in advancing our understanding of naturalistic communication, with implications for both science and practice.
 
-tags: []
+tags: ['Review']
 
 # Display this page in the Featured widget?
 featured: false
