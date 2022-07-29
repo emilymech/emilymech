@@ -10,8 +10,12 @@ links:
   name: Manuscript
   url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Exploring+age-related+changes+in+inter-brain+synchrony+during+verbal+communication&btnG=
 slides: 
-summary: These results suggest the information provided by adjectives is buffered
-until a head noun is encountered, at which point the access of the noun’s semantics is shaped in parallel by both the adjective and the sentence-level representation.
+summary: Systematic age-related neural dissimilarities in processing
+dynamics and strategies raise fundamental questions about how the human brain supports
+cross-generational communication, especially in light of accumulating evidence linking
+interpersonal similarities in brain responses to communicative success. Yet despite its
+prevalence and tangible health-related importance, naturalistic intergenerational
+communication involving older adults is understudied. In this paper, we lay out why filling this research gap is critical in advancing our understanding of naturalistic communication, with implications for both science and practice.
 tags:
 - Review
 title: Exploring age-related changes in inter-brain synchrony during verbal communication
