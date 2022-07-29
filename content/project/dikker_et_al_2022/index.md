@@ -2,7 +2,7 @@
 date: "2022-04-01T00:00:00Z"
 external_link: ""
 image: 
-  caption: 
+  caption: Manuscript
   focal_point: Smart
 links:
 - icon: graduation-cap
