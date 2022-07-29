@@ -22,7 +22,7 @@ publishDate: '2022-06-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: '2'
 
 # Publication name and optional abbreviated publication name.
 publication: In *Brain and Language*
@@ -33,7 +33,8 @@ abstract: To test theories that posit differences in how semantic information is
 # Summary. An optional shortened abstract.
 summary: Our recent publication showing that the cerebral hemispheres can represent semantic information similarly given a task that requires deep semantic processing.
 
-tags: []
+tags: 
+  - EEG
 
 # Display this page in the Featured widget?
 featured: false

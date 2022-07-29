@@ -22,7 +22,7 @@ publishDate: '2022-10-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: '2'
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Experimental Psychology: Learning, Memory, and Cognition*
@@ -33,7 +33,8 @@ abstract: Can a single adjective immediately influence message-building during s
 # Summary. An optional shortened abstract.
 summary: Overall, these results suggest the information provided by adjectives is buffered until a head noun is encountered, at which point the access of the noun’s semantics is shaped in parallel by both the adjective and the sentence-level representation.
 
-tags: ['EEG']
+tags: 
+  - EEG
 
 # Display this page in the Featured widget?
 featured: false
