@@ -1,5 +1,5 @@
 ---
-title: hi
+title: The last course of coarse coding: Hemispheric similarities in associative and categorical semantic processing
 summary: We argue that hemispheric differences, when they arise, are more likely due to
 differences in task demands than in how the hemispheres fundamentally represent semantic information.
 tags:
