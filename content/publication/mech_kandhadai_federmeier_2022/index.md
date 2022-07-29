@@ -1,6 +1,6 @@
 ---
-title: 'The last course of coarse coding: Hemispheric similarities in associative and
-categorical semantic processing'
+title: The last course of coarse coding: Hemispheric similarities in associative and
+categorical semantic processing
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,7 +33,7 @@ abstract: To test theories that posit differences in how semantic information is
 # Summary. An optional shortened abstract.
 summary: Our recent publication showing that the cerebral hemispheres can represent semantic information similarly given a task that requires deep semantic processing.
 
-tags: ['EEG']
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
