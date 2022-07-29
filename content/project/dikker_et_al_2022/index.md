@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: graduation-cap
+    icon_pack: fas
+    name: Manuscript
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Exploring+age-related+changes+in+inter-brain+synchrony+during+verbal+communication&btnG=
 url_code: ''
 url_pdf: ''
 url_slides: ''
