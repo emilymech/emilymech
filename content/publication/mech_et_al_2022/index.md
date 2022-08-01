@@ -28,10 +28,12 @@ publication_types: ['2']
 publication: In *Brain and Language*
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To test theories that posit differences in how semantic information is represented in the cerebral hemispheres, we
+assessed semantic priming for associatively and categorically related prime-target pairs that were graded in relatedness strength. Visual half-field presentation was used to bias processing to the right or left hemisphere, and event-related potential (ERP) and behavioral responses were measured while participants completed a semantic
+relatedness judgement task. Contrary to theories positing representational differences across the cerebral hemispheres, in two experiments using (1) centralized prime presentation and lateralized targets and (2) lateralized primes and targets, we found similar priming patterns across the two hemispheres at the level of semantic access (N400), on later measures of explicit processing (late positive complex; LPC), and in behavioral response speeds and accuracy. We argue that hemispheric differences, when they arise, are more likely due to differences in task demands than in how the hemispheres fundamentally represent semantic information.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We argue that hemispheric differences, when they arise, are more likely due to differences in task demands than in how the hemispheres fundamentally represent semantic information.
 
 tags: []
 
