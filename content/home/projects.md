@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Ongoing Projects
 subtitle: ''
 
 content:
@@ -31,8 +31,6 @@ content:
       tag: EEG
     - name: Simulation
       tag: Simulation
-    - name: Review
-      tag: Review
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
