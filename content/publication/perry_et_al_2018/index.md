@@ -29,7 +29,7 @@ publication_types: ['2']
 publication: 'Psychonomic Bulletin and Review'
 publication_short: 'PBR'
 
-abstract: Unfamiliar speech—spoken in a familiar language but with an accent different from the listener’s—is known to increase comprehension difficulty. However, there is evidence of listeners’ rapid adaptation to unfamiliar accents (although perhaps not to the level of familiar accents). This paradox might emerge from prior focus on isolated word perception and/or use of single comprehension measures. We investigated processing of fluent connected speech spoken either in a familiar or unfamiliar accent, using participants’ ability to shadow the speech as an immediate measure as well as a
+abstract: Unfamiliar speech—spoken in a familiar language but with an accent different from the listener’s-is known to increase comprehension difficulty. However, there is evidence of listeners’ rapid adaptation to unfamiliar accents (although perhaps not to the level of familiar accents). This paradox might emerge from prior focus on isolated word perception and/or use of single comprehension measures. We investigated processing of fluent connected speech spoken either in a familiar or unfamiliar accent, using participants’ ability to shadow the speech as an immediate measure as well as a
 comprehension test at passage end. Shadowing latencies and errors and comprehension errors increased for Unfamiliar relative to Familiar Speech conditions, especially for relatively informal rather than more academic content. Additionally, there was evidence of less adaptation to Unfamiliar than Familiar Speech. These results suggest that unfamiliar speech imposes costs, especially in the immediate timescale of perceiving speech.
 
 # Summary. An optional shortened abstract.
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
