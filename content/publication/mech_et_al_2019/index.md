@@ -29,10 +29,10 @@ publication_types: ['6']
 publication: 'An Introduction to Applied Linguistics'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This chapter considers the critical features of language processing for healthy young adults who actively use two languages. It focuses on data from studies that use a wide range of methods, including measures of brain activity. The chapter also considers some of the broader implications of what the authors have discussed for language use across the lifespan and for both healthy individuals and for those facing pathology. A primary goal of psycholinguistics is to characterize variation in language experience to better understand how linguistic experiences shape both linguistic and cognitive processing. One of the most important discoveries about bilingualism is that bilinguals’ two languages are active and competing even when bilinguals are only speaking or listening to one of their languages. One manipulation that has been widely used to index language co-activation is using words with cross-language overlap, such as cognates, or translation equivalent words that have similar phonological and/or orthographic forms across languages.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags: []
 
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
