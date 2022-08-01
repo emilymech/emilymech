@@ -6,7 +6,8 @@ title: 'The last course of coarse coding: Hemispheric similarities in associativ
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - 'Padmapriya Kandhadai'
+  - 'Kara D. Federmeier'
 
 # Author notes (optional)
 author_notes:
