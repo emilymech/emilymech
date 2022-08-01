@@ -1,17 +1,17 @@
 ---
-title: 'An example conference paper'
+title: 'Influences of speech familiarity on immediate perception and final comprehension'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - 'Lynn K. Perry'
   - admin
-  - Robert Ford
+  - 'Maryellen C. MacDonald'
+  - 'Mark S. Seidenberg'
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+author_notes: ''
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
