@@ -28,12 +28,12 @@ publication_types: ['2']
 publication: 'Frontiers in Psychology'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Within the past decade, there has been an explosion of research investigating the cognitive consequences of bilingualism. However, a controversy has arisen specifically involving research claiming a “bilingual advantage” in executive function. In this brief review, we re-examine the nature of the “bilingual advantage” and suggest three themes for future research. First, there must be a theoretical account of how specific variation in language experience impacts aspects of executive function and domain general cognition. Second, efforts toward adequately characterizing the participants tested will be critical to interpreting results. Finally, designing studies that employ converging analytical approaches and sensitive methodologies will be important to advance our knowledge of the dynamics between bilingual language experience and cognition.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
-tags: []
+tags: ['Review']
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
