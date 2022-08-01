@@ -1,6 +1,6 @@
 ---
-title: 'The Power of “Good”: Can Adjectives Rapidly Decrease as Well as
-Increase the Availability of the Upcoming Noun?'
+title: "The Power of Good: Can Adjectives Rapidly Decrease as Well as
+Increase the Availability of the Upcoming Noun?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
