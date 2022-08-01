@@ -1,5 +1,5 @@
 ---
-title: "The Power of "Good": Can Adjectives Rapidly Decrease as Well as
+title: "The Power of Good: Can Adjectives Rapidly Decrease as Well as
 Increase the Availability of the Upcoming Noun?"
 
 # Authors
