@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'The last course of coarse coding: Hemispheric similarities in associative and categorical processing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
