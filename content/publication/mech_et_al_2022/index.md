@@ -33,7 +33,7 @@ abstract: To test theories that posit differences in how semantic information is
 # Summary. An optional shortened abstract.
 summary: We argue that hemispheric differences, when they arise, are more likely due to differences in task demands than in how the hemispheres fundamentally represent semantic information.
 
-tags: []
+tags: ['EEG']
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
