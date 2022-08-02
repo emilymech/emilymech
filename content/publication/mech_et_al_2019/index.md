@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://gustavorubinoernesto.com/wp-content/uploads/2020/10/Norbert-Schmitt-Michael-P.-H.-Rodgers-An-Introduction-to-Applied-Linguistics-2020.pdf#page=141'
 url_code: ''
 url_dataset: ''
 url_poster: ''
