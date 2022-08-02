@@ -29,10 +29,10 @@ publication_types: ['1']
 publication: 'Cogsci Proceedings'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We routinely encounter speakers with different accents and speaking styles. The speech perception literature offers examples of disruption of comprehension for unfamiliar speech and also of listeners’ rapid accommodation to unfamiliar accents. Much of this research uses a single measure and/or focuses on isolated word perception. We investigated listeners’ abilities to comprehend and shadow connected speech spoken in a familiar or unfamiliar accent. We found increases in shadowing latencies and comprehension errors in the Dissimilar Speech relative to Similar Speech conditions—especially for relatively informal rather than more academic style speech. Additionally, there was less accommodation over time to Dissimilar than Similar Speech. These results suggest that there are costs both in the immediate timescale of processing speech (necessary for shadowing) and in the longer time scale of listening comprehension when accent and other speech quality is very different from one’s own speech.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags: []
 
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
