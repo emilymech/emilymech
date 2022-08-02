@@ -47,18 +47,18 @@ experience:
           * "I've had Emily in a couple of discussions. Shes always been a great TA and was always very charismatic and knowledgable of the material. She has great energy and seems very motivated to teach the material. She definitely knows her stuff and finds the best and most efficient way for us to learn the material. I like how she always relates the content to real life situations making it a lot easier to memorize. Thank you, Emily!"
           * "Emily is the reason of why I have been able to pass a previous class and allowed me to have a better understanding of this class. She has always been so incredibly patient through my continuous questions. Her constant helpful examples were the reason that I always was able leave office hours more confidently in my abilities than I came in. No matter how many times she had to reexplained she never seemed angry of frustrated with me and that was a great assistant. I greatly thank her for all the assistance."
           
-  - title: Instructor, Introduction to Brain and Cognitive Science
-    company: 'Brain and Cognitive Science 100'
+  - title: Instructor, The Brain and Behavior
+    company: 'Psychology 110'
     company_url: ''
     company_logo: ''
-    location: University of Illinois at Urbana-Champaign
-    date_start: '2021-08-23'
-    date_end: '2021-12-23'
+    location: University of California, Riverside
+    date_start: '2017'
+    date_end: '2018'
     description: |2-
-        * Added to University 'List of Teachers Ranked as Excellent by Their Students'
+        * Taught the course for three 10-week quarters (Summer 2017, Winter 2018, Summer 2018)
         * Select student evaluations:
-          * "Emily did a fantastic job at simplifying complex topics so that all the students can understand. She taught at a very reasonable pace and always looked to clarify things if students seemed confused. She is by far one of the best teachers/TAs I've had over the course of my education."
-          * "Emily. She was great and probably the best TA that I have ever had. I have nothing but praise for her and her teaching style. She is always able to break something down for the class and constantly walks around during lab to ensure that if we have any questions we can ask them. More TAs need to be like her!"
+          * "It has been a pleasure having Emily as TA for psych 110. Having a class such as 110 been so science focus created uncertainty on my success. But, even so, Emily has an amazing, helpful, imaginative teaching style that I wish I would have had in each an every one of the classes of my entire college career. Every single one of her examples helped make the material more relatable and thus understandable. Never in my 4 years in UCR have I written a comment on the ieval. Now you see how truly gratifying is haveing a TA like Emily."
+          * "Emily is by far one of the best SI's I have had at UCR. She definitely knows what she is talking about, has so much passion in what she does. She uses analogies so that her students can have a better understanding of the material, which was extremely helpful! She took time to check for comprehension as well as answering any questions that were asked during discussion. Her revised slides were great and also very, very helpful. Great attitude every morning. Honestly, couldn't wait to go to discussion because I knew she would clarify any questions or hesitations I had encountered during lecture."
           
   - title: Instructor, Introduction to Brain and Cognitive Science
     company: 'Brain and Cognitive Science 100'
