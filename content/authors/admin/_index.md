@@ -45,7 +45,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/emilymech/
 superuser: true
-title: Emily Mech
+title: Emily N. Mech
 ---
 
 Emily Mech uses event-related potentials (ERPs), computational modeling, and behavioral methodology to examine how regularities in language and the world interact to affect the ways in which our linguistic and semantic knowledge is learned, structured, accessed, and communicated.
