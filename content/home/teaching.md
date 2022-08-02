@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Instructor
+    company: 'Introduction to Brain and Cognitive Science, Brain and Cognitive Science 100'
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: ''
+    location: University of Illinois at Urbana-Champaign
+    date_start: '2021-08-23'
+    date_end: '2021-12-23'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Received University list of Excellent Teachers as determined by Student Rankings
+        Selected student evaluations:
+        * "Emily did a fantastic job at simplifying complex topics so that all the students can understand. She taught at a very reasonable pace and always looked to clarify things if students seemed confused. She is by far one of the best teachers/TAs I've had over the course of my education."
+        * "Emily. She was great and probably the best TA that I have ever had. I have nothing but praise for her and her teaching style. She is always able to break something down for the class and constantly walks around during lab to ensure that if we have any questions we can ask them. More TAs need to be like her!"
+        * "Great at answering students' questions and giving feedback. Communicates ideas/new topics very effectively and makes sure that everybody understands. Takes time to explain difficult concepts."
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
