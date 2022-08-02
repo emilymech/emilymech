@@ -52,10 +52,10 @@ experience:
     company_url: ''
     company_logo: ''
     location: University of California, Riverside
-    date_start: '2017'
-    date_end: '2018'
+    date_start: '2017-07-31'
+    date_end: '2018-03-16'
     description: |2-
-        * Taught the course for three 10-week quarters (Summer 2017, Winter 2018, Summer 2018)
+        * Taught the course for three academic quarters (Summer 2017, Winter 2018, Summer 2018)
         * Select student evaluations:
           * "It has been a pleasure having Emily as TA for psych 110. Having a class such as 110 been so science focus created uncertainty on my success. But, even so, Emily has an amazing, helpful, imaginative teaching style that I wish I would have had in each an every one of the classes of my entire college career. Every single one of her examples helped make the material more relatable and thus understandable. Never in my 4 years in UCR have I written a comment on the ieval. Now you see how truly gratifying is haveing a TA like Emily."
           * "Emily is by far one of the best SI's I have had at UCR. She definitely knows what she is talking about, has so much passion in what she does. She uses analogies so that her students can have a better understanding of the material, which was extremely helpful! She took time to check for comprehension as well as answering any questions that were asked during discussion. Her revised slides were great and also very, very helpful. Great attitude every morning. Honestly, couldn't wait to go to discussion because I knew she would clarify any questions or hesitations I had encountered during lecture."
