@@ -60,18 +60,18 @@ experience:
           * "It has been a pleasure having Emily as TA for psych 110. Having a class such as 110 been so science focus created uncertainty on my success. But, even so, Emily has an amazing, helpful, imaginative teaching style that I wish I would have had in each an every one of the classes of my entire college career. Every single one of her examples helped make the material more relatable and thus understandable. Never in my 4 years in UCR have I written a comment on the ieval. Now you see how truly gratifying is haveing a TA like Emily."
           * "Emily is by far one of the best SI's I have had at UCR. She definitely knows what she is talking about, has so much passion in what she does. She uses analogies so that her students can have a better understanding of the material, which was extremely helpful! She took time to check for comprehension as well as answering any questions that were asked during discussion. Her revised slides were great and also very, very helpful. Great attitude every morning. Honestly, couldn't wait to go to discussion because I knew she would clarify any questions or hesitations I had encountered during lecture."
           
-  - title: Instructor, Introduction to Brain and Cognitive Science
-    company: 'Brain and Cognitive Science 100'
+  - title: Instructor, Bilingual Minds and Brains
+    company: 'Psychology 049'
     company_url: ''
     company_logo: ''
-    location: University of Illinois at Urbana-Champaign
-    date_start: '2021-08-23'
-    date_end: '2021-12-23'
+    location: University of California, Riverside
+    date_start: '2017-09-28'
+    date_end: '2018-12-10'
     description: |2-
-        * Added to University 'List of Teachers Ranked as Excellent by Their Students'
+        * Taught the course for two academic quarters (Fall 2017, Fall 2018)
         * Select student evaluations:
-          * "Emily did a fantastic job at simplifying complex topics so that all the students can understand. She taught at a very reasonable pace and always looked to clarify things if students seemed confused. She is by far one of the best teachers/TAs I've had over the course of my education."
-          * "Emily. She was great and probably the best TA that I have ever had. I have nothing but praise for her and her teaching style. She is always able to break something down for the class and constantly walks around during lab to ensure that if we have any questions we can ask them. More TAs need to be like her!"
+          * "Emily made the class very exciting and interesting. She is extremely knowledgeable on every topic we go over in lexture. She is always enthusiastic and keeps the class involved. She encourages participation and genuinely wants every student to do well. She has been one of the best TAs I've had at UCR."
+          * "She did an extremely good job teaching the material each discussion, as well as clarifying any confusion any one of her students had. She provided a safe environment for everyone and encouraged us to participate in a very nice and encouraging way. She did an effective job of using the slides that had the material that was being taught and knew very well what she was talking about. I looked forward to going to class because I knew that she'd be able to help and clear any confusion any time."
           
   
 design:
