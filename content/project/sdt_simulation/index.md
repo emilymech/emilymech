@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon:
-    icon_pack:
-    name:
-    url:
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: https://github.com/emilymech/sdt_simulation
 url_code: ''
 url_pdf: ''
 url_slides: ''
