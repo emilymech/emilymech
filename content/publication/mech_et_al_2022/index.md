@@ -25,7 +25,7 @@ publishDate: '2022-06-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Brain and Language*
+publication: 'Brain and Language'
 publication_short: ''
 
 abstract: To test theories that posit differences in how semantic information is represented in the cerebral hemispheres, we assessed semantic priming for associatively and categorically related prime-target pairs that were graded in relatedness strength. Visual half-field presentation was used to bias processing to the right or left hemisphere, and event-related potential (ERP) and behavioral responses were measured while participants completed a semantic relatedness judgement task. Contrary to theories positing representational differences across the cerebral hemispheres, in two experiments using centralized prime presentation and lateralized targets and lateralized primes and targets, we found similar priming patterns across the two hemispheres at the level of semantic access (N400), on later measures of explicit processing (late positive complex; LPC), and in behavioral response speeds and accuracy. We argue that hemispheric differences, when they arise, are more likely due to differences in task demands than in how the hemispheres fundamentally represent semantic information.
