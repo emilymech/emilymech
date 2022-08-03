@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Psychology (Cognitive)
     institution: University of Illinois at Urbana-Champaign
-    year: Expected Graduation - 2022
+    year: Expected Graduation - 2023
   - course: MA in Psychology (Cognitive)
     institution: University of California, Riverside
     year: 2018
