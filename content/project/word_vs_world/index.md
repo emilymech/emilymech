@@ -16,8 +16,12 @@ links:
     icon_pack: fas
     name: Pre-Registration
     url: https://archive.org/details/osf-registrations-gx2rn-v1
+  - icon: graduation-cap
+    icon_pack: fas
+    name: Poster
+    url: poster
 url_code: ''
-url_pdf: poster
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
