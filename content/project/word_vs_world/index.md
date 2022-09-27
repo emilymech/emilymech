@@ -4,9 +4,9 @@ summary: 'To understand the influence of knowledge and current context on compre
 tags: []
 date: '2022-02-21T00:00:00Z'
 
-{{% staticref "uploads/word_vs_world_poster.pdf" "newtab" %}}View my poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{% /staticref %}}
+{{< icon name="download" pack="fas" >}}View my {{< staticref ""uploads/word_vs_world_poster.pdf" "newtab" >}} poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
 
-{{% staticref "uploads/word_vs_world_poster_walkthrough.pptx" "newtab" %}}Listen to a walk through of my poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{% /staticref %}}
+{{< icon name="download" pack="fas" >}}Listen to a walk through of my {{< staticref ""uploads/word_vs_world_poster_walkthrough.pptx" "newtab" >}}poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
