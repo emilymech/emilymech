@@ -17,7 +17,7 @@ links:
     name: Pre-Registration
     url: https://archive.org/details/osf-registrations-gx2rn-v1
 url_code: ''
-url_pdf: ''
+url_pdf: poster
 url_slides: ''
 url_video: ''
 
