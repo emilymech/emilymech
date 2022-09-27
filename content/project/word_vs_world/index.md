@@ -29,6 +29,6 @@ url_video: ''
 slides: ''
 ---
 
-{{< icon name="download" pack="fas" >}}View my {{< staticref ""uploads/word_vs_world_poster.pdf" "newtab" >}} poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
+{{< icon name="download" pack="fas" >}}View my {{< staticref "uploads/word_vs_world_poster.pdf" "newtab" >}} poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
 
-{{< icon name="download" pack="fas" >}}Listen to a walk through of my {{< staticref ""uploads/word_vs_world_poster_walkthrough.pptx" "newtab" >}}poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
+{{< icon name="download" pack="fas" >}}Listen to a walk through of my {{< staticref "uploads/word_vs_world_poster_walkthrough.pptx" "newtab" >}}poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
