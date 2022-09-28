@@ -16,6 +16,7 @@ links:
     icon_pack: fas
     name: Pre-Registration
     url: https://archive.org/details/osf-registrations-gx2rn-v1
+    
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,6 +30,6 @@ url_video: ''
 slides: ''
 ---
 
-{{< icon name="download" pack="fas" >}}View my {{< staticref "uploads/word_vs_world_poster.pdf" "newtab" >}} poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
+{{< icon name="download" pack="fas" >}}View my {{< staticref "uploads/word_vs_world_poster.pdf" "newtab" >}} poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}}Listen to a walk through of my {{< staticref "uploads/word_vs_world_poster_walkthrough.pptx" "newtab" >}}poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}
+{{< icon name="download" pack="fas" >}}Listen to a walk through of my {{< staticref "uploads/word_vs_world_poster_walkthrough.pptx" "newtab" >}}poster presented at the 62nd Meeting of the Society of Psychophysiological Research {{< /staticref >}}.
