@@ -57,7 +57,18 @@ experience:
         * Select student evaluations:
           *  "Emily made the class very exciting and interesting. She is extremely knowledgeable on every topic we go over in lexture. She is always enthusiastic and keeps the class involved. She encourages participation and genuinely wants every student to do well. She has been one of the best TAs I've had at UCR."
           * "She did an extremely good job teaching the material each discussion, as well as clarifying any confusion any one of her students had. She provided a safe environment for everyone and encouraged us to participate in a very nice and encouraging way. She did an effective job of using the slides that had the material that was being taught and knew very well what she was talking about. I looked forward to going to class because I knew that she'd be able to help and clear any confusion any time."
-
+  - title:  Instructor, Bilingual Minds and Brains
+    company: 'Psychology 049'
+    company_url: ''
+    company_logo: ''
+    location: University of California, Riverside
+    date_start: '2017-09-28'
+    date_end: '2018-12-10'
+    description: |2-
+        * Taught the course for two academic quarters (Fall 2017, Fall 2018)
+        * Select student evaluations:
+          *  "Emily made the class very exciting and interesting. She is extremely knowledgeable on every topic we go over in lexture. She is always enthusiastic and keeps the class involved. She encourages participation and genuinely wants every student to do well. She has been one of the best TAs I've had at UCR."
+          * "She did an extremely good job teaching the material each discussion, as well as clarifying any confusion any one of her students had. She provided a safe environment for everyone and encouraged us to participate in a very nice and encouraging way. She did an effective job of using the slides that had the material that was being taught and knew very well what she was talking about. I looked forward to going to class because I knew that she'd be able to help and clear any confusion any time."
 design:
   columns: '2'
 ---
