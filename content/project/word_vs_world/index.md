@@ -30,4 +30,7 @@ url_video: ''
 slides: ''
 ---
 
-test
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mech_WVW_SPR_2022.pdf" "newtab" >}}poster{{< /staticref >}} presented at the 62nd Annual Meeting of the Society of Psychophysiological Research.
+
+
+{{< icon name="download" pack="fas" >}} Download the walkthrough of my {{< staticref "uploads/Mech_poster_recording_WVW_SPR.pptx" "newtab" >}}poster{{< /staticref >}} presented at the 62nd Annual Meeting of the Society of Psychophysiological Research.
