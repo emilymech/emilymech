@@ -45,17 +45,19 @@ experience:
         * Select student evaluations:
           * "I've had Emily in a couple of discussions. Shes always been a great TA and was always very charismatic and knowledgable of the material. She has great energy and seems very motivated to teach the material. She definitely knows her stuff and finds the best and most efficient way for us to learn the material. I like how she always relates the content to real life situations making it a lot easier to memorize. Thank you, Emily!"
           * "Emily is the reason of why I have been able to pass a previous class and allowed me to have a better understanding of this class. She has always been so incredibly patient through my continuous questions. Her constant helpful examples were the reason that I always was able leave office hours more confidently in my abilities than I came in. No matter how many times she had to reexplained she never seemed angry of frustrated with me and that was a great assistant. I greatly thank her for all the assistance."
-  - title:  Instructor, Cognitive Processes
-    company: 'Psychology 134'
+  - title:  Instructor, Bilingual Minds and Brains
+    company: 'Psychology 049'
     company_url: ''
     company_logo: ''
     location: University of California, Riverside
-    date_start: '2019-01-07'
-    date_end: '2019-03-22'
+    date_start: '2017-09-28'
+    date_end: '2018-12-10'
     description: |2-
+        * Taught the course for two academic quarters (Fall 2017, Fall 2018)
         * Select student evaluations:
-          * "I've had Emily in a couple of discussions. Shes always been a great TA and was always very charismatic and knowledgable of the material. She has great energy and seems very motivated to teach the material. She definitely knows her stuff and finds the best and most efficient way for us to learn the material. I like how she always relates the content to real life situations making it a lot easier to memorize. Thank you, Emily!"
-          * "Emily is the reason of why I have been able to pass a previous class and allowed me to have a better understanding of this class. She has always been so incredibly patient through my continuous questions. Her constant helpful examples were the reason that I always was able leave office hours more confidently in my abilities than I came in. No matter how many times she had to reexplained she never seemed angry of frustrated with me and that was a great assistant. I greatly thank her for all the assistance."
+          *  "Emily made the class very exciting and interesting. She is extremely knowledgeable on every topic we go over in lexture. She is always enthusiastic and keeps the class involved. She encourages participation and genuinely wants every student to do well. She has been one of the best TAs I've had at UCR."
+          * "She did an extremely good job teaching the material each discussion, as well as clarifying any confusion any one of her students had. She provided a safe environment for everyone and encouraged us to participate in a very nice and encouraging way. She did an effective job of using the slides that had the material that was being taught and knew very well what she was talking about. I looked forward to going to class because I knew that she'd be able to help and clear any confusion any time."
+
 design:
   columns: '2'
 ---
