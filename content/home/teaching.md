@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 title: Teaching
-subtitle:
+subtitle: ''
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
